@@ -1,4 +1,4 @@
-# CodePro-Lmendiola.github.io
+# Horiseon-SEO-Optimization
 Horiseon web page optimization
 Added alt attributes to images to give description.
 Corrected links by adding class and id. This allowed the link to go to the appropriate area.
